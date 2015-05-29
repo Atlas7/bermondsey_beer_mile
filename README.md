@@ -2,6 +2,8 @@
 
 A handy guide for a Saturday Bermondsey Beer Mile - Micro-brewery Crawl along the Railway Arches between South Bermondsey and London Bridge.
 
+Probably best do this on Saturdays when most breweries are opened for visitors. (e.g. start from 11:00 ish and finish by around 17:00 ish)
+
 # High-level Map
 
 Feel free to reverse the following start and end points.
