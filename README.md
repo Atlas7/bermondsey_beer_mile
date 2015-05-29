@@ -17,6 +17,10 @@ See Google Map [here](https://www.google.co.uk/maps/@51.4948945,-0.0719654,15z).
 
 # Micro Breweries
 
+We now list the brewery information (address, opening times, and websites, etc.) in an order assuming we start from the South Bermondsey end and end at the London Bridge end.
+
+If you are making your trip in reverse order (start from London Bridge and end at South Bermondsey), just read the followings from bottom-up!
+
 ## Fourpure Brewery Co 
 
 ```
